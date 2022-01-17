@@ -1,0 +1,7 @@
+C:\dm3semestr\dm3\dm3\dm3\bin\Debug\dm3.exe.config
+C:\dm3semestr\dm3\dm3\dm3\bin\Debug\dm3.exe
+C:\dm3semestr\dm3\dm3\dm3\bin\Debug\dm3.pdb
+C:\dm3semestr\dm3\dm3\dm3\obj\Debug\dm3.csprojAssemblyReference.cache
+C:\dm3semestr\dm3\dm3\dm3\obj\Debug\dm3.csproj.CoreCompileInputs.cache
+C:\dm3semestr\dm3\dm3\dm3\obj\Debug\dm3.exe
+C:\dm3semestr\dm3\dm3\dm3\obj\Debug\dm3.pdb
